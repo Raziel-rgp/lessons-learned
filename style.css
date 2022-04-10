@@ -1,5 +1,5 @@
 body {
-    background-color:(253, 251, 251);
+    background-color:rgb(253, 251, 251);
 }
 
 #cabecalho {
@@ -19,5 +19,12 @@ body {
     width: 5cm;
     color:black;
     font:arial;
+
+}
+
+#minha_foto {
+    width:300px;
+    
+
 
 }
