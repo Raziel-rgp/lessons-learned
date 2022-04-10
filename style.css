@@ -1,10 +1,23 @@
+body {
+    background-color:(253, 251, 251);
+}
+
 #cabecalho {
     background-color: black;
     position: fixed;
     z-index: 1;
-    width:max-content;
+    width:auto;
+    top: 0
 }
 
 #titulo {
     color:white
+}
+
+#C1 {
+    height: 5cm;
+    width: 5cm;
+    color:black;
+    font:arial;
+
 }
