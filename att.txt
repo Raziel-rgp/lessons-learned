@@ -4,3 +4,6 @@ att 1.0
 --------------------%-------------------------
 att 2.0
 * concluido os objetivos até o 10.
+########################################
+att 2.1
+* Modifiquei algumas coisas para concluir os objetivos 8 e 9
