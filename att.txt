@@ -1,1 +1,6 @@
 Esse documento é para explicar as atualizações e mudanças ao longo do desenvolvimento do site.
+att 1.0
+* 6 objetivos concluidos, iniciando o roda pé.
+--------------------%-------------------------
+att 2.0
+* concluido os objetivos até o 10.
