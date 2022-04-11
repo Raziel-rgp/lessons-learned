@@ -7,3 +7,7 @@ att 2.0
 ########################################
 att 2.1
 * Modifiquei algumas coisas para concluir os objetivos 8 e 9
+
+########################################
+att 2.2
+* Adicionei algumas coisas a textos que estavam pendentes!
